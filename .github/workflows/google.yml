@@ -23,7 +23,7 @@ env:
   GKE_CLUSTER: cluster-1    # Appuletchya`
   GKE_ZONE: us-central1-c   # KY
   DEPLOYMENT_NAME: gke-test # TokenKY
-  REPOSITORY: samples # TODO: https://gist.github.com/kentuckleberry
+  REPOSITORY: samples # https://remix.ethereum.org/#version=soljson-v0.8.12+commit.f00d7308.js&optimize=true&runs=200&gist=
 
 jobs:
   setup-build-publish-deploy:
