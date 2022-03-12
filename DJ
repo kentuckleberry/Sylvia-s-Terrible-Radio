@@ -1,6 +1,0 @@
-<audio controls autoplay loop preload="metadata" style=" width:300px;">
-	<source src="https://github.com/kentuckleberry/Sylvia-s-Terrible-Radio.git" type="audio/mpeg">
-	Your browser does not support the audio element.
-</audio><br />
-<a href="http://scriptgenerator.net/really-simple-embed-audio-player-script/" title="Generate here your HTML5 audio player" style="text-align: right;display: block">HTML5 Audio Player</a> 
-
