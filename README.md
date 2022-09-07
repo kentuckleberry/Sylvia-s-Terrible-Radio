@@ -1,4 +1,4 @@
-# tarot-ble
+# tarot-ble radio
 tarot-ble radio: basic web media streaming, for now.
 
 # http.dev.sh
